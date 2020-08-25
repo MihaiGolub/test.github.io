@@ -1,5 +1,10 @@
 .box{
-    width: 100vw;
+    width: 50vw;
     height: 100vh;
     background-color: rgb(242, 120, 34);;
+}
+.box2{
+    width: 50vw;
+    height: 100vh;
+    background-color: #000;
 }
